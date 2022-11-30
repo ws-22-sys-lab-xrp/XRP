@@ -1,27 +1,29 @@
 [submodule "wiredtiger"]
 	path = wiredtiger
 	url = https://github.com/ws-22-sys-lab-xrp/wiredtiger.git
+    shallow = true
 [submodule "linux"]
 	path = linux
 	url = https://github.com/ws-22-sys-lab-xrp/linux.git
+    shallow = true
 [submodule "BPF-KV"]
 	path = BPF-KV
-	url = https://github.com/ws-22-sys-lab-xrp/wiredtiger.git
+	url = https://github.com/xrp-project/wiredtiger.git
 [submodule "My-YCSB"]
 	path = My-YCSB
 	url = https://github.com/ws-22-sys-lab-xrp/My-YCSB.git
 [submodule "Specialized-BPF-KV/io_uring"]
 	path = Specialized-BPF-KV/io_uring
-	url = https://github.com/ws-22-sys-lab-xrp/BPF-KV.git
+	url = https://github.com/xrp-project/BPF-KV.git
 [submodule "Specialized-BPF-KV/io_uring_open_loop"]
 	path = Specialized-BPF-KV/io_uring_open_loop
-	url = https://github.com/ws-22-sys-lab-xrp/BPF-KV.git
+	url = https://github.com/xrp-project/BPF-KV.git
 [submodule "Specialized-BPF-KV/spdk"]
 	path = Specialized-BPF-KV/spdk
-	url = https://github.com/ws-22-sys-lab-xrp/BPF-KV.git
+	url = https://github.com/xrp-project/BPF-KV.git
 [submodule "Specialized-BPF-KV/spdk_open_loop"]
 	path = Specialized-BPF-KV/spdk_open_loop
-	url = https://github.com/ws-22-sys-lab-xrp/BPF-KV.git
+	url = https://github.com/xrp-project/BPF-KV.git
 [submodule "spdk"]
 	path = spdk
 	url = https://github.com/spdk/spdk.git
