@@ -14,6 +14,7 @@
 [submodule "BPF-KV"]
 	path = BPF-KV
 	url = https://github.com/ws-22-sys-lab-xrp/BPF-KV.git
+	branch = main
 [submodule "Specialized-BPF-KV/io_uring"]
 	path = Specialized-BPF-KV/io_uring
 	url = https://github.com/ws-22-sys-lab-xrp/BPF-KV.git
