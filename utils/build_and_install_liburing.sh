@@ -1,3 +1,5 @@
+#!/bin/bash
+
 pushd /tmp
 git clone https://github.com/axboe/liburing.git
 git checkout tags/liburing-2.1

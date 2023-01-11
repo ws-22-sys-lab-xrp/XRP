@@ -1,3 +1,5 @@
+#!/bin/bash
+
 DEV_NAME=$1
 
 while [ ! -z "$(cat /proc/mounts | grep -m 1 $DEV_NAME)" ]; do

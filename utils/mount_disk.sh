@@ -1,3 +1,5 @@
+#!/bin/bash
+
 DEV_NAME=$1
 MOUNT_POINT=$2
 
